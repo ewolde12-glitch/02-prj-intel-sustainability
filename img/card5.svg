@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 420" role="img" aria-label="Emissions trend illustration">
+  <defs>
+    <linearGradient id="bg5" x1="0" x2="1">
+      <stop offset="0%" stop-color="#eaf7ff"/>
+      <stop offset="100%" stop-color="#d9f0df"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="420" fill="url(#bg5)"/>
+  <g opacity="0.95">
+    <circle cx="660" cy="85" r="46" fill="#ffd866"/>
+    <path d="M130 130h120l-18 26h-84z" fill="#b8c6d2"/>
+    <path d="M80 200h160v122H80z" fill="#93a9bb"/>
+    <path d="M150 170h45v52h-45z" fill="#dfeaf3"/>
+    <path d="M220 170h45v52h-45z" fill="#dfeaf3"/>
+    <path d="M420 150h150v172H420z" fill="#8ea7b8"/>
+    <path d="M470 110h50v40h-50z" fill="#dfeaf3"/>
+    <path d="M535 140h20v182h-20z" fill="#dfeaf3"/>
+    <path d="M320 150h80v172h-80z" fill="#a0b7c8"/>
+  </g>
+  <g>
+    <path d="M70 330 C180 260, 260 260, 350 330 S540 380, 720 330" fill="none" stroke="#1f7a5e" stroke-width="12" stroke-linecap="round"/>
+    <path d="M70 340 C180 290, 260 290, 350 340 S540 390, 720 340" fill="none" stroke="#79d19a" stroke-width="8" stroke-linecap="round"/>
+  </g>
+  <g fill="#2d6a5d">
+    <text x="90" y="100" font-size="28" font-family="Arial, sans-serif" font-weight="700">GHG</text>
+    <text x="90" y="130" font-size="20" font-family="Arial, sans-serif">Emissions</text>
+  </g>
+</svg>

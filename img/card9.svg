@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 420" role="img" aria-label="Sustainability summit illustration">
+  <defs>
+    <linearGradient id="bg9" x1="0" x2="1">
+      <stop offset="0%" stop-color="#eef7ff"/>
+      <stop offset="100%" stop-color="#ebf5ee"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="420" fill="url(#bg9)"/>
+  <g>
+    <rect x="80" y="250" width="640" height="100" rx="16" fill="#dfeaf5"/>
+    <rect x="140" y="200" width="90" height="50" rx="8" fill="#8db0c7"/>
+    <rect x="255" y="180" width="100" height="70" rx="8" fill="#9bc5d9"/>
+    <rect x="380" y="170" width="110" height="80" rx="8" fill="#b7d7e8"/>
+    <rect x="510" y="190" width="120" height="60" rx="8" fill="#8db0c7"/>
+  </g>
+  <g>
+    <circle cx="225" cy="150" r="28" fill="#f9d77d"/>
+    <circle cx="350" cy="120" r="30" fill="#f4c273"/>
+    <circle cx="480" cy="145" r="27" fill="#f0d581"/>
+    <circle cx="610" cy="130" r="30" fill="#f9d77d"/>
+    <rect x="205" y="180" width="35" height="45" rx="10" fill="#2d6a7c"/>
+    <rect x="330" y="155" width="40" height="50" rx="10" fill="#315d75"/>
+    <rect x="455" y="170" width="42" height="52" rx="10" fill="#2d6a7c"/>
+    <rect x="580" y="160" width="45" height="55" rx="10" fill="#315d75"/>
+  </g>
+  <g fill="#1a5c87" font-family="Arial, sans-serif">
+    <text x="80" y="110" font-size="30" font-weight="700">Sustainability</text>
+    <text x="80" y="145" font-size="28">Summit</text>
+  </g>
+</svg>

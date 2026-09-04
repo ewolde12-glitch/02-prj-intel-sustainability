@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 420" role="img" aria-label="RISE strategy illustration">
+  <defs>
+    <linearGradient id="bg6" x1="0" x2="1">
+      <stop offset="0%" stop-color="#edf7ff"/>
+      <stop offset="100%" stop-color="#def4ee"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="420" fill="url(#bg6)"/>
+  <g>
+    <circle cx="160" cy="125" r="72" fill="#7cc7f0" opacity="0.35"/>
+    <circle cx="640" cy="120" r="82" fill="#97d8ad" opacity="0.3"/>
+  </g>
+  <g>
+    <path d="M130 260c0-68 54-122 122-122s122 54 122 122" fill="none" stroke="#0a4d72" stroke-width="16" stroke-linecap="round"/>
+    <path d="M160 260c0-49 39-88 88-88s88 39 88 88" fill="none" stroke="#4ab9a9" stroke-width="14" stroke-linecap="round"/>
+    <rect x="390" y="150" width="270" height="140" rx="18" fill="#ffffff" opacity="0.9"/>
+    <rect x="420" y="180" width="90" height="20" rx="10" fill="#0a4d72"/>
+    <rect x="420" y="215" width="140" height="18" rx="9" fill="#71c78e"/>
+    <rect x="420" y="245" width="180" height="18" rx="9" fill="#9ad8ff"/>
+    <rect x="250" y="310" width="300" height="18" rx="9" fill="#2e7d5a"/>
+  </g>
+  <g fill="#0f5d8b" font-family="Arial, sans-serif">
+    <text x="70" y="330" font-size="28" font-weight="700">RISE</text>
+    <text x="70" y="358" font-size="22">Strategy</text>
+  </g>
+</svg>

@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 420" role="img" aria-label="Net-zero target illustration">
+  <defs>
+    <linearGradient id="bg7" x1="0" x2="1">
+      <stop offset="0%" stop-color="#eefaf1"/>
+      <stop offset="100%" stop-color="#e4f2ff"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="420" fill="url(#bg7)"/>
+  <g>
+    <circle cx="410" cy="210" r="118" fill="none" stroke="#0d6a50" stroke-width="20"/>
+    <circle cx="410" cy="210" r="84" fill="none" stroke="#7bd299" stroke-width="18" stroke-dasharray="10 18"/>
+    <circle cx="410" cy="210" r="48" fill="#dff7ea" stroke="#1b8c62" stroke-width="10"/>
+    <path d="M410 210l56-58" stroke="#0d6a50" stroke-width="14" stroke-linecap="round"/>
+    <circle cx="410" cy="210" r="12" fill="#0d6a50"/>
+  </g>
+  <g fill="#1b8c62" font-family="Arial, sans-serif">
+    <text x="90" y="120" font-size="34" font-weight="700">NET-ZERO</text>
+    <text x="90" y="155" font-size="20">by 2040</text>
+  </g>
+  <g fill="#7c8ea2" font-family="Arial, sans-serif">
+    <text x="110" y="330" font-size="24">Scope 1 &amp; 2</text>
+  </g>
+</svg>
